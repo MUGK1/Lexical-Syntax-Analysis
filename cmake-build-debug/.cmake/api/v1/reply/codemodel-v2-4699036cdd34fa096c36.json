@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "lexical_analyzer",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "lexical_analyzer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lexical_analyzer-Debug-2f9b057af12a484c989c.json",
+					"name" : "lexical_analyzer",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/khaled/PL/PL_Project/Lexical & Syntax Analyzer/cmake-build-debug",
+		"source" : "/Users/khaled/PL/PL_Project/Lexical & Syntax Analyzer"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

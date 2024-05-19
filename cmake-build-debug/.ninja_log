@@ -1,0 +1,10 @@
+# ninja log v5
+2	444	1716067399856500362	CMakeFiles/lexical_analyzer.dir/src/main.c.o	f839f0f6eb09d82e
+1	36	1716127135198178812	build.ninja	1975a958f4636862
+444	640	1716067400051600013	lexical_analyzer	c272bf8b81e302af
+3	444	1716067399856968834	CMakeFiles/lexical_analyzer.dir/src/parser.c.o	9b5618d8511b6ab0
+3	443	1716067399858093792	CMakeFiles/lexical_analyzer.dir/src/lexer.c.o	1f65324bbea9530d
+3	104	1716127149653905212	CMakeFiles/lexical_analyzer.dir/src/main.c.o	b0f0f258c44b9dc0
+3	104	1716127149655489182	CMakeFiles/lexical_analyzer.dir/src/parser.c.o	33f3a7e15d6d79cf
+3	109	1716127149660226508	CMakeFiles/lexical_analyzer.dir/src/lexer.c.o	fbb9674a01d4405
+109	156	1716127149706458375	lexical_analyzer	c272bf8b81e302af
